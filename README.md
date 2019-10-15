@@ -1,0 +1,1 @@
+# hackintosh-dell-inspirion-14RN5420
