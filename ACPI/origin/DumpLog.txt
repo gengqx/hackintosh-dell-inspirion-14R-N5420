@@ -1,0 +1,80 @@
+12:084  0:292  Found BIOS RSDP at F0490
+12:084  0:000  Saving ACPI tables from RSDP F0490 to EFI\CLOVER\ACPI\origin ...
+12:084  0:000   F0490: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+12:084  0:000    (Xsdt: BA051088, Rsdt: BA051028)
+12:084  0:000    BA051088: 'XSDT', 'LH43STAR', Rev: 1, Len: 140
+12:084  0:000    BA051028: 'RSDT', 'LH43STAR', Rev: 1, Len: 88
+12:084  0:000    Tables in Xsdt: 13
+12:084  0:000    0. BA05C058: 'FACP', 'LH43STAR', Rev: 5, Len: 268
+12:084  0:000        (Dsdt: BA0511A0, Facs: BA193080, XDsdt: BA0511A0, XFacs: 0)
+12:084  0:000        BA0511A0: 'DSDT', 'LH43STAR', Rev: 2, Len: 44728
+12:085  0:001        BA193080: 'FACS', Ver: 2, Len: 64
+12:085  0:000    1. BA05C168: 'APIC', 'LH43STAR', Rev: 3, Len: 114
+12:085  0:000    2. BA05C1E0: 'FPDT', 'LH43STAR', Rev: 1, Len: 68
+12:085  0:000    3. BA05C228: 'MCFG', 'LH43STAR', Rev: 1, Len: 60
+12:085  0:000    4. BA05C268: 'MSDM', 'LH43STAR', Rev: 3, Len: 85
+12:085  0:000    5. BA05C2C0: 'SSDT', 'PtidDevc', Rev: 1, Len: 1769
+12:085  0:000    6. BA05C9B0: 'HPET', 'LH43STAR', Rev: 1, Len: 56
+12:085  0:000    7. BA05C9E8: 'SSDT', 'SataTabl', Rev: 1, Len: 701
+12:085  0:000    8. BA05CCA8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2276
+12:085  0:000    9. BA05D590: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+12:085  0:000    10. BA05E028: 'SSDT', 'SgTabl', Rev: 1, Len: 1939
+12:085  0:000    11. BA05E7C0: 'SSDT', 'AmdTabl', Rev: 1, Len: 3674
+12:085  0:000    12. BA05F620: 'SLIC', 'LH43STAR', Rev: 1, Len: 374
+12:085  0:000    Tables in Rsdt: 13
+12:085  0:000    0. BA051118: 'FACP', 'LH43STAR', Rev: 2, Len: 132
+12:085  0:000        (Dsdt: BA0511A0, Facs: BA193040)
+12:085  0:000        BA0511A0: 'DSDT', 'LH43STAR', Rev: 2, Len: 44728
+12:086  0:001        BA193040: 'FACS', Ver: 0, Len: 64
+12:086  0:000    1. BA05C168: 'APIC', 'LH43STAR', Rev: 3, Len: 114
+12:086  0:000    2. BA05C1E0: 'FPDT', 'LH43STAR', Rev: 1, Len: 68
+12:086  0:000    3. BA05C228: 'MCFG', 'LH43STAR', Rev: 1, Len: 60
+12:086  0:000    4. BA05C268: 'MSDM', 'LH43STAR', Rev: 3, Len: 85
+12:087  0:000    5. BA05C2C0: 'SSDT', 'PtidDevc', Rev: 1, Len: 1769
+12:087  0:000    6. BA05C9B0: 'HPET', 'LH43STAR', Rev: 1, Len: 56
+12:087  0:000    7. BA05C9E8: 'SSDT', 'SataTabl', Rev: 1, Len: 701
+12:087  0:000    8. BA05CCA8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2276
+12:087  0:000    9. BA05D590: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+12:087  0:000    10. BA05E028: 'SSDT', 'SgTabl', Rev: 1, Len: 1939
+12:087  0:000    11. BA05E7C0: 'SSDT', 'AmdTabl', Rev: 1, Len: 3674
+12:087  0:000    12. BA05F620: 'SLIC', 'LH43STAR', Rev: 1, Len: 374
+12:087  0:000  Found UEFI Acpi 2.0 RSDP at 1FEEA000
+12:087  0:000  Printing ACPI tables from RSDP 1FEEA000 ...
+12:087  0:000   1FEEA000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+12:087  0:000    (Xsdt: BA051088, Rsdt: BA051028)
+12:087  0:000    BA051088: 'XSDT', 'LH43STAR', Rev: 1, Len: 140
+12:087  0:000    BA051028: 'RSDT', 'LH43STAR', Rev: 1, Len: 88
+12:087  0:000    Tables in Xsdt: 13
+12:087  0:000    0. BA05C058: 'FACP', 'LH43STAR', Rev: 5, Len: 268
+12:087  0:000        (Dsdt: BA0511A0, Facs: BA193080, XDsdt: BA0511A0, XFacs: 0)
+12:087  0:000        BA0511A0: 'DSDT', 'LH43STAR', Rev: 2, Len: 44728
+12:088  0:001        BA193080: 'FACS', Ver: 2, Len: 64
+12:088  0:000    1. BA05C168: 'APIC', 'LH43STAR', Rev: 3, Len: 114
+12:088  0:000    2. BA05C1E0: 'FPDT', 'LH43STAR', Rev: 1, Len: 68
+12:088  0:000    3. BA05C228: 'MCFG', 'LH43STAR', Rev: 1, Len: 60
+12:088  0:000    4. BA05C268: 'MSDM', 'LH43STAR', Rev: 3, Len: 85
+12:088  0:000    5. BA05C2C0: 'SSDT', 'PtidDevc', Rev: 1, Len: 1769
+12:088  0:000    6. BA05C9B0: 'HPET', 'LH43STAR', Rev: 1, Len: 56
+12:088  0:000    7. BA05C9E8: 'SSDT', 'SataTabl', Rev: 1, Len: 701
+12:088  0:000    8. BA05CCA8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2276
+12:088  0:000    9. BA05D590: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+12:088  0:000    10. BA05E028: 'SSDT', 'SgTabl', Rev: 1, Len: 1939
+12:088  0:000    11. BA05E7C0: 'SSDT', 'AmdTabl', Rev: 1, Len: 3674
+12:088  0:000    12. BA05F620: 'SLIC', 'LH43STAR', Rev: 1, Len: 374
+12:088  0:000    Tables in Rsdt: 13
+12:088  0:000    0. BA051118: 'FACP', 'LH43STAR', Rev: 2, Len: 132
+12:088  0:000        (Dsdt: BA0511A0, Facs: BA193040)
+12:088  0:000        BA0511A0: 'DSDT', 'LH43STAR', Rev: 2, Len: 44728
+12:089  0:001        BA193040: 'FACS', Ver: 0, Len: 64
+12:089  0:000    1. BA05C168: 'APIC', 'LH43STAR', Rev: 3, Len: 114
+12:089  0:000    2. BA05C1E0: 'FPDT', 'LH43STAR', Rev: 1, Len: 68
+12:089  0:000    3. BA05C228: 'MCFG', 'LH43STAR', Rev: 1, Len: 60
+12:089  0:000    4. BA05C268: 'MSDM', 'LH43STAR', Rev: 3, Len: 85
+12:089  0:000    5. BA05C2C0: 'SSDT', 'PtidDevc', Rev: 1, Len: 1769
+12:089  0:000    6. BA05C9B0: 'HPET', 'LH43STAR', Rev: 1, Len: 56
+12:089  0:000    7. BA05C9E8: 'SSDT', 'SataTabl', Rev: 1, Len: 701
+12:089  0:000    8. BA05CCA8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2276
+12:089  0:000    9. BA05D590: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+12:089  0:000    10. BA05E028: 'SSDT', 'SgTabl', Rev: 1, Len: 1939
+12:089  0:000    11. BA05E7C0: 'SSDT', 'AmdTabl', Rev: 1, Len: 3674
+12:089  0:000    12. BA05F620: 'SLIC', 'LH43STAR', Rev: 1, Len: 374
